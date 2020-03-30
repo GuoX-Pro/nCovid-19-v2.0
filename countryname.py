@@ -218,5 +218,6 @@ nameMap = {
            'Anguilla':'安圭拉',
            'Aruba':'阿鲁巴',
            'Gibraltar':'直布罗陀',
-           'Martinique':'马提尼克岛'
+           'Martinique':'马提尼克岛',
+           'Faroe':'法罗群岛'
         }
