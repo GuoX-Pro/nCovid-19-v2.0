@@ -219,5 +219,9 @@ nameMap = {
            'Aruba':'阿鲁巴',
            'Gibraltar':'直布罗陀',
            'Martinique':'马提尼克岛',
-           'Faroe':'法罗群岛'
+           'Faroe':'法罗群岛',
+           'Sierra Leone':'塞拉利昂',
+           'Burundi':'布隆迪',
+           'Djibouti':'吉布提',
+           'Sao Tome and Principe':'圣多美和普林西比'
         }
