@@ -223,5 +223,7 @@ nameMap = {
            'Sierra Leone':'塞拉利昂',
            'Burundi':'布隆迪',
            'Djibouti':'吉布提',
-           'Sao Tome and Principe':'圣多美和普林西比'
+           'Sao Tome and Principe':'圣多美和普林西比',
+           'Saint Vincent and the Grenadines':'圣文森特岛',
+           'Western Sahara':'西撒哈拉'
         }
